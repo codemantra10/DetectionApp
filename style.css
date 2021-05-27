@@ -1,0 +1,46 @@
+.webcamview{
+    border-color: white; 
+    border-width: 5px; 
+    font-family:cursive;
+    border-style: solid;
+    box-shadow:5px 5px 20px white;
+}
+label{
+    box-shadow:5px 5px 20px white;
+    background-color: white;
+}
+#ci{
+background-color: turquoise;
+color: black;
+}
+#camera{
+width: 100px;
+height: 100px;
+}
+#s{
+    background-color:lightgreen;
+    color: black;
+    }
+    #result{
+    width: 100px;
+    height: 100px;
+    }
+    .snapshot{
+        border-color: white; 
+        border-width: 5px; 
+        font-family:cursive;
+        border-style: solid;
+        box-shadow:5px 5px 20px white;
+    }
+    #bulb{
+    height: 100px;
+    width: 100px;
+    }
+    #resultdiv{
+        border-color: white; 
+        border-width: 5px; 
+        font-family:cursive;
+        border-style: solid;
+        box-shadow:5px 5px 20px white;
+        background-color: white;
+    }
